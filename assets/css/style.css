@@ -1,0 +1,8 @@
+body {
+    background-image: url("../images/Triviabackground.png");
+    background-size: cover;
+}
+
+.container {
+    margin-top: 200px;
+}
